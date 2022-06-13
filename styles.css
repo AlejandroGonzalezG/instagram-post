@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 60px;
+    border: 0;
+    background-color: black;
+}
+
+#postInstagram{
+    background-color: white;
+    width: 728px;
+    height: 600px;
+    margin: auto;
+    border: 20px;
+}
+i{
+    font-size: 35px;
+    float: left;
+}
+i[class~="fa-solid"]{
+    float: right;
+
+}
+#imagenInstagram{
+    
+}
+div > p{
+    padding: 0px 25px;
+}
+div > i{
+    float: left !important;
+    padding-left: 15px;
+}
+#iconSegundo{
+    float: right;
+    padding-right: 15px;
+}
